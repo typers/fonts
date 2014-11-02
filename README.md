@@ -1,4 +1,4 @@
-#Typer Fonts
+#Typers Fonts
 
 Welcome to the Typers Fonts project!
 
